@@ -4,5 +4,6 @@
 </head>
 <body>
 <div>hello world</div>
+<div>나이는 30</div>
 </body>
 </html>
